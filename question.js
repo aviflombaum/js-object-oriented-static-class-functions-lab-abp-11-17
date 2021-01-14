@@ -2,7 +2,7 @@
 
 class Question{
   static function All(){
-    return []
+    return this._All
   }
 }
 
