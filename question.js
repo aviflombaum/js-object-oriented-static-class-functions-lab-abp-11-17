@@ -4,4 +4,4 @@ class Question{
 
 }
 
-Question._All = []
+Question._All = ""
